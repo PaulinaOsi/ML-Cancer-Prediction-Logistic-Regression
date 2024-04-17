@@ -1,5 +1,5 @@
 import streamlit as st
-import pickle5 as pickle
+import pickle as pickle
 import pandas as pd
 import os
 import plotly.graph_objects as go
